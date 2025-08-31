@@ -1,0 +1,16 @@
+fastapi>=0.112
+uvicorn[standard]>=0.30
+langchain>=0.2
+langchain-community>=0.2
+faiss-cpu>=1.8
+sentence-transformers>=3.0
+pydantic>=2.7
+python-dotenv>=1.0
+slowapi>=0.1.9
+tiktoken>=0.7
+numpy>=1.26
+faster-whisper>=1.0
+pydub>=0.25
+requests>=2.32
+setuptools<81
+huggingface_hub[hf_xet]>=0.19.0
