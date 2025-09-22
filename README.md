@@ -1,6 +1,6 @@
 # RAG Tutor – Secure Demo
 
-This implements the recruiter assignment:
+This implements:
 - **RAG backend** answering questions from your provided docs.
 - **Live API** for `/query`, `/chat`, `/stt`.
 - **Emotion-aware tutor avatar** that animates `happy | thinking | explaining`.
